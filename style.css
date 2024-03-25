@@ -10,7 +10,7 @@ body {
   width: 100vw;
   height: 100vh;
   background-color: #353535;
-  font-family: "Roboto", "Open Sans", "Noto Serif", "sans-serif";
+  font-family: "Roboto", "Open Sans", "sans-serif";
   display: flex;
   justify-content: center;
   align-items: center;
